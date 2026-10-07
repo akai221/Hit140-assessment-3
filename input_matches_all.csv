@@ -1,0 +1,105 @@
+match_id,stage,team_a,score_a,score_b,team_b
+1,Group A,Mexico,2,0,South Africa
+2,Group A,South Korea,2,1,Czech Republic
+3,Group A,Czech Republic,1,1,South Africa
+4,Group A,Mexico,1,0,South Korea
+5,Group A,Czech Republic,0,3,Mexico
+6,Group A,South Africa,1,0,South Korea
+7,Group B,Canada,1,1,Bosnia and Herzegovina
+8,Group B,Qatar,1,1,Switzerland
+9,Group B,Switzerland,4,1,Bosnia and Herzegovina
+10,Group B,Canada,6,0,Qatar
+11,Group B,Switzerland,2,1,Canada
+12,Group B,Bosnia and Herzegovina,3,1,Qatar
+13,Group C,Brazil,1,1,Morocco
+14,Group C,Haiti,0,1,Scotland
+15,Group C,Scotland,0,1,Morocco
+16,Group C,Brazil,3,0,Haiti
+17,Group C,Scotland,0,3,Brazil
+18,Group C,Morocco,4,2,Haiti
+19,Group D,United States,4,1,Paraguay
+20,Group D,Australia,2,0,Turkey
+21,Group D,United States,2,0,Australia
+22,Group D,Turkey,0,1,Paraguay
+23,Group D,Turkey,3,2,United States
+24,Group D,Paraguay,0,0,Australia
+25,Group E,Germany,7,1,Curacao
+26,Group E,Ivory Coast,1,0,Ecuador
+27,Group E,Germany,2,1,Ivory Coast
+28,Group E,Ecuador,0,0,Curacao
+29,Group E,Curacao,0,2,Ivory Coast
+30,Group E,Ecuador,2,1,Germany
+31,Group F,Netherlands,2,2,Japan
+32,Group F,Sweden,5,1,Tunisia
+33,Group F,Netherlands,5,1,Sweden
+34,Group F,Tunisia,0,4,Japan
+35,Group F,Japan,1,1,Sweden
+36,Group F,Tunisia,1,3,Netherlands
+37,Group G,Belgium,1,1,Egypt
+38,Group G,Iran,2,2,New Zealand
+39,Group G,Belgium,0,0,Iran
+40,Group G,New Zealand,1,3,Egypt
+41,Group G,Egypt,1,1,Iran
+42,Group G,New Zealand,1,5,Belgium
+43,Group H,Spain,0,0,Cape Verde
+44,Group H,Saudi Arabia,1,1,Uruguay
+45,Group H,Spain,4,0,Saudi Arabia
+46,Group H,Uruguay,2,2,Cape Verde
+47,Group H,Cape Verde,0,0,Saudi Arabia
+48,Group H,Uruguay,0,1,Spain
+49,Group I,France,3,1,Senegal
+50,Group I,Iraq,1,4,Norway
+51,Group I,France,3,0,Iraq
+52,Group I,Norway,3,2,Senegal
+53,Group I,Norway,1,4,France
+54,Group I,Senegal,5,0,Iraq
+55,Group J,Argentina,3,0,Algeria
+56,Group J,Austria,3,1,Jordan
+57,Group J,Argentina,2,0,Austria
+58,Group J,Jordan,1,2,Algeria
+59,Group J,Algeria,3,3,Austria
+60,Group J,Jordan,1,3,Argentina
+61,Group K,Colombia,0,0,Portugal
+62,Group K,DR Congo,3,1,Uzbekistan
+63,Group K,Colombia,1,0,DR Congo
+64,Group K,Portugal,5,0,Uzbekistan
+65,Group K,Uzbekistan,1,3,Colombia
+66,Group K,Portugal,1,1,DR Congo
+67,Group L,England,4,2,Croatia
+68,Group L,Ghana,1,0,Panama
+69,Group L,England,0,0,Ghana
+70,Group L,Panama,0,1,Croatia
+71,Group L,Panama,0,2,England
+72,Group L,Croatia,2,1,Ghana
+73,R32,South Africa,0,1,Canada
+74,R32,Germany,1,1,Paraguay
+75,R32,Netherlands,1,1,Morocco
+76,R32,Brazil,2,1,Japan
+77,R32,Ivory Coast,1,2,Norway
+78,R32,France,3,0,Sweden
+79,R32,Mexico,2,0,Ecuador
+80,R32,England,2,1,DR Congo
+81,R32,United States,2,0,Bosnia and Herzegovina
+82,R32,Belgium,3,2,Senegal
+83,R32,Portugal,2,1,Croatia
+84,R32,Spain,3,0,Austria
+85,R32,Switzerland,2,0,Algeria
+86,R32,Australia,1,1,Egypt
+87,R32,Argentina,3,2,Cape Verde
+88,R32,Colombia,1,0,Ghana
+89,R16,Canada,0,3,Morocco
+90,R16,Paraguay,0,1,France
+91,R16,Brazil,1,2,Norway
+92,R16,Mexico,2,3,England
+93,R16,Portugal,0,1,Spain
+94,R16,United States,1,4,Belgium
+95,R16,Argentina,3,2,Egypt
+96,R16,Switzerland,0,0,Colombia
+97,QF,France,2,0,Morocco
+98,QF,Spain,2,1,Belgium
+99,QF,Norway,1,2,England
+100,QF,Argentina,3,1,Switzerland
+101,SF,France,0,2,Spain
+102,SF,England,1,2,Argentina
+103,3rd,France,4,6,England
+104,Final,Spain,1,0,Argentina

@@ -1,0 +1,105 @@
+match_id,stage,team_a,team_b,stadium,goal_difference,fifa_rank_diff,attack_diff,defence_diff,h2h_avg_gd,squad_value_diff_eur_m,squad_age_diff,venue_altitude_m,host_advantage_diff
+1,Group A,Mexico,South Africa,Estadio Azteca,2,46,0.167,-0.233,1.25,142.6,-0.52,2200,1
+2,Group A,South Korea,Czech Republic,Estadio Akron,1,15,-0.25,-0.3,-1.33,-49.13,0.62,1670,0
+3,Group A,Czech Republic,South Africa,Mercedes-Benz Stadium,0,20,0.75,0.1,0.0,138.93,0.22,320,0
+4,Group A,Mexico,South Korea,Estadio Akron,1,11,-0.333,-0.033,0.5,52.8,-1.36,1670,1
+5,Group A,Czech Republic,Mexico,Estadio Azteca,-3,-26,0.583,0.333,0.0,-3.67,0.74,2200,-1
+6,Group A,South Africa,South Korea,Estadio BBVA,1,-35,-0.5,0.2,0.0,-89.8,-0.84,530,0
+7,Group B,Canada,Bosnia and Herzegovina,BMO Field,0,34,0.875,-0.542,0.0,52.25,-0.57,75,1
+8,Group B,Qatar,Switzerland,Levi's Stadium,0,-37,-0.633,2.067,1.0,-312.57,0.9,5,0
+9,Group B,Switzerland,Bosnia and Herzegovina,SoFi Stadium,3,45,0.208,-0.542,-2.0,186.1,1.35,40,0
+10,Group B,Canada,Qatar,BC Place,6,26,1.3,-2.067,2.0,178.72,-2.82,0,1
+11,Group B,Switzerland,Canada,BC Place,1,11,-0.667,0.0,-2.0,133.85,1.92,0,-1
+12,Group B,Bosnia and Herzegovina,Qatar,Lumen Field,2,-8,0.425,-1.525,-1.0,126.47,-2.25,45,0
+13,Group C,Brazil,Morocco,MetLife Stadium,0,1,-1.417,0.694,0.0,480.5,3.9,2,0
+14,Group C,Haiti,Scotland,Gillette Stadium,-1,-41,-0.667,-0.167,0.0,-114.35,-1.73,87,0
+15,Group C,Scotland,Morocco,Gillette Stadium,-1,-35,-0.583,0.917,-3.0,-277.45,4.09,87,0
+16,Group C,Brazil,Haiti,Lincoln Financial Field,3,77,-0.167,-0.056,6.0,872.3,1.54,12,0
+17,Group C,Scotland,Brazil,Hard Rock Stadium,-3,-36,0.834,0.223,-1.0,-757.95,0.19,3,0
+18,Group C,Morocco,Haiti,Mercedes-Benz Stadium,2,76,1.25,-0.75,0.0,391.8,-2.36,320,0
+19,Group D,United States,Paraguay,SoFi Stadium,3,24,1.889,-0.223,0.56,231.95,-1.42,40,1
+20,Group D,Australia,Turkey,BC Place,2,-5,-1.233,-1.3,-1.5,-396.25,0.59,0,0
+21,Group D,United States,Australia,Lumen Field,2,10,1.067,-0.367,0.5,308.15,-0.9,45,1
+22,Group D,Turkey,Paraguay,Levi's Stadium,-1,19,2.055,1.444,0.0,320.05,-1.11,5,0
+23,Group D,Turkey,United States,SoFi Stadium,1,-5,0.166,1.667,0.0,88.1,0.31,40,-1
+24,Group D,Paraguay,Australia,Levi's Stadium,0,-14,-0.822,-0.144,-0.4,76.2,0.52,5,0
+25,Group E,Germany,Curacao,NRG Stadium,6,72,0.5,0.0,0.0,921.22,0.0,32,0
+26,Group E,Ivory Coast,Ecuador,Lincoln Financial Field,1,-10,1.722,-0.278,0.0,153.4,1.36,12,0
+27,Group E,Germany,Ivory Coast,BMO Field,1,23,0.167,0.5,0.0,424.9,2.34,75,0
+28,Group E,Ecuador,Curacao,Arrowhead Stadium,0,59,-1.389,-0.222,0.0,342.92,-3.7,277,0
+29,Group E,Curacao,Ivory Coast,Lincoln Financial Field,-2,-49,-0.333,0.5,0.0,-496.32,2.34,12,0
+30,Group E,Ecuador,Germany,MetLife Stadium,1,-13,-1.889,-0.222,-2.5,-578.3,-3.7,2,0
+31,Group F,Netherlands,Japan,AT&T Stadium,0,10,0.375,0.2,1.33,483.35,-0.8,184,0
+32,Group F,Sweden,Tunisia,Estadio BBVA,4,7,-1.533,2.0,0.25,336.13,0.73,530,0
+33,Group F,Netherlands,Sweden,NRG Stadium,4,30,2.708,-1.5,-0.15,348.12,-0.21,32,0
+34,Group F,Tunisia,Japan,Estadio BBVA,-4,-27,-0.8,-0.3,-0.83,-200.9,-1.32,530,0
+35,Group F,Japan,Sweden,AT&T Stadium,0,20,2.333,-1.7,0.0,-135.23,0.59,184,0
+36,Group F,Tunisia,Netherlands,Arrowhead Stadium,-2,-37,-1.175,-0.5,-1.33,-684.25,-0.52,277,0
+37,Group G,Belgium,Egypt,Lumen Field,0,20,1.625,0.675,-0.75,431.02,-1.37,45,0
+38,Group G,Iran,New Zealand,SoFi Stadium,0,65,-1.1,0.356,1.5,-2.4,1.15,40,0
+39,Group G,Belgium,Iran,SoFi Stadium,0,11,1.725,0.075,0.0,515.45,-1.69,40,0
+40,Group G,New Zealand,Egypt,BC Place,-2,-56,1.0,0.244,-0.67,-82.03,-0.83,0,0
+41,Group G,Egypt,Iran,Lumen Field,0,-9,0.1,-0.6,0.0,84.43,-0.32,45,0
+42,Group G,New Zealand,Belgium,BC Place,-4,-76,-0.625,-0.431,-1.0,-513.05,0.54,0,0
+43,Group H,Spain,Cape Verde,Mercedes-Benz Stadium,0,65,1.9,-0.467,0.0,1170.75,-3.03,320,0
+44,Group H,Saudi Arabia,Uruguay,Hard Rock Stadium,0,-45,-0.522,0.133,0.0,-318.62,1.37,3,0
+45,Group H,Spain,Saudi Arabia,Mercedes-Benz Stadium,4,59,2.8,-0.467,2.33,1179.32,-1.78,320,0
+46,Group H,Uruguay,Cape Verde,Hard Rock Stadium,0,51,-0.378,-0.133,0.0,310.05,-2.62,3,0
+47,Group H,Cape Verde,Saudi Arabia,NRG Stadium,0,-6,0.9,0.0,0.0,8.57,1.25,32,0
+48,Group H,Uruguay,Spain,Estadio Akron,-1,-14,-2.278,0.334,-0.8,-860.7,0.41,1670,0
+49,Group I,France,Senegal,MetLife Stadium,2,12,0.467,0.367,1.33,1041.9,0.15,2,0
+50,Group I,Iraq,Norway,Gillette Stadium,-3,-26,-3.725,0.275,0.0,-568.7,-0.34,87,0
+51,Group I,France,Iraq,Lincoln Financial Field,3,54,1.767,-0.233,0.0,1498.8,0.57,12,0
+52,Group I,Norway,Senegal,MetLife Stadium,1,-16,2.425,0.325,-1.0,111.8,-0.08,2,0
+53,Group I,Norway,France,Gillette Stadium,-3,-28,1.958,-0.042,-0.47,-930.1,-0.23,87,0
+54,Group I,Senegal,Iraq,BMO Field,5,42,1.3,-0.6,0.0,456.9,0.42,75,0
+55,Group J,Argentina,Algeria,Arrowhead Stadium,3,27,-0.678,-0.244,1.0,550.6,1.56,277,0
+56,Group J,Austria,Jordan,Levi's Stadium,2,39,1.15,-0.3,0.0,224.9,0.67,5,0
+57,Group J,Argentina,Austria,AT&T Stadium,2,23,-1.028,0.056,2.0,562.3,-1.0,184,0
+58,Group J,Jordan,Algeria,Levi's Stadium,-1,-35,-0.8,0.0,-1.67,-236.6,1.89,5,0
+59,Group J,Algeria,Austria,Arrowhead Stadium,0,-4,-0.35,0.3,-2.0,11.7,-2.56,277,0
+60,Group J,Jordan,Argentina,AT&T Stadium,-2,-62,-0.122,0.244,0.0,-787.2,0.33,184,0
+61,Group K,Colombia,Portugal,Hard Rock Stadium,0,-8,-1.777,-0.167,0.0,-707.65,2.1,3,0
+62,Group K,DR Congo,Uzbekistan,Mercedes-Benz Stadium,2,4,0.1,-0.1,0.0,58.57,0.99,320,0
+63,Group K,Colombia,DR Congo,Estadio Akron,1,33,0.056,0.4,0.0,158.45,1.08,1670,0
+64,Group K,Portugal,Uzbekistan,NRG Stadium,5,45,1.933,0.467,0.0,924.67,-0.03,32,0
+65,Group K,Uzbekistan,Colombia,Estadio Azteca,-2,-37,-0.156,-0.3,0.0,-217.02,-2.07,2200,0
+66,Group K,Portugal,DR Congo,NRG Stadium,0,41,1.833,0.567,0.0,866.1,-1.02,32,0
+67,Group L,England,Croatia,AT&T Stadium,2,7,-0.5,-0.5,0.82,972.7,-1.3,184,0
+68,Group L,Ghana,Panama,BMO Field,1,-39,0.8,-0.067,0.0,199.95,-3.18,75,0
+69,Group L,England,Ghana,Gillette Stadium,0,69,0.45,-0.6,0.0,1125.5,0.54,87,0
+70,Group L,Panama,Croatia,BMO Field,-1,-23,-1.75,0.167,0.0,-352.75,1.34,75,0
+71,Group L,Panama,England,MetLife Stadium,-2,-30,-1.25,0.667,-5.0,-1325.45,2.64,2,0
+72,Group L,Croatia,Ghana,Lincoln Financial Field,1,62,0.95,-0.1,0.0,152.8,1.84,12,0
+73,R32,South Africa,Canada,SoFi Stadium,-1,-30,-1.5,0.567,2.0,-149.4,1.0,40,-1
+74,R32,Germany,Paraguay,Gillette Stadium,0,31,1.889,-0.056,0.5,793.35,-0.34,87,0
+75,R32,Netherlands,Morocco,Estadio BBVA,0,-1,0.625,0.25,0.33,306.5,1.92,530,0
+76,R32,Brazil,Japan,NRG Stadium,1,12,-1.667,0.644,2.07,657.35,1.18,32,0
+77,R32,Ivory Coast,Norway,AT&T Stadium,-1,-2,-2.125,-0.625,0.0,-67.8,-1.19,184,0
+78,R32,France,Sweden,MetLife Stadium,3,35,2.0,-1.333,0.48,1113.92,-0.31,2,0
+79,R32,Mexico,Ecuador,Estadio Azteca,2,9,0.889,0.389,1.14,-176.85,2.53,2200,1
+80,R32,England,DR Congo,Mercedes-Benz Stadium,1,42,1.25,-0.6,0.0,1216.1,-1.88,320,0
+81,R32,United States,Bosnia and Herzegovina,Levi's Stadium,2,47,0.542,-0.542,0.5,239.2,0.0,5,1
+82,R32,Belgium,Senegal,Lumen Field,1,6,1.425,0.575,0.0,69.4,0.65,45,0
+83,R32,Portugal,Croatia,BMO Field,1,6,0.083,0.667,0.64,622.7,-0.44,75,0
+84,R32,Spain,Austria,SoFi Stadium,3,22,0.75,-0.167,1.06,974.8,-1.92,40,0
+85,R32,Switzerland,Algeria,BC Place,2,9,-0.067,-0.467,1.5,75.6,2.25,0,0
+86,R32,Australia,Egypt,AT&T Stadium,0,2,-0.4,0.5,-1.5,-39.03,-1.13,184,0
+87,R32,Argentina,Cape Verde,Hard Rock Stadium,1,66,0.122,-0.244,0.0,758.25,-2.11,3,0
+88,R32,Colombia,Ghana,Arrowhead Stadium,1,60,-0.744,0.4,0.0,67.85,3.5,277,0
+89,R16,Canada,Morocco,NRG Stadium,-3,-23,0.25,0.083,-1.5,-249.05,1.09,32,1
+90,R16,Paraguay,France,Lincoln Financial Field,-1,-38,-1.889,-0.111,-2.2,-1366.35,1.26,12,0
+91,R16,Brazil,Norway,MetLife Stadium,-1,25,-3.292,0.319,-0.75,338.3,2.31,2,0
+92,R16,Mexico,England,Estadio Azteca,-1,-10,-1.083,0.667,-1.33,-1168.15,-0.29,2200,1
+93,R16,Portugal,Spain,AT&T Stadium,-1,-3,-0.167,0.834,-0.49,-210.0,1.32,184,0
+94,R16,United States,Belgium,Lumen Field,-3,-8,-0.958,-0.542,-0.71,-161.9,-0.66,45,1
+95,R16,Argentina,Egypt,Mercedes-Benz Stadium,1,28,-0.278,0.356,2.0,691.02,-1.37,320,0
+96,R16,Switzerland,Colombia,BC Place,0,-6,0.777,-0.667,-0.25,30.15,-1.81,0,0
+97,QF,France,Morocco,Gillette Stadium,2,4,-0.083,0.417,1.33,1072.3,1.82,87,0
+98,QF,Spain,Belgium,SoFi Stadium,1,7,-0.125,-0.542,0.68,672.5,-0.92,40,0
+99,QF,Norway,England,Hard Rock Stadium,-1,-27,1.875,0.625,-1.42,-770.1,-0.27,3,0
+100,QF,Argentina,Switzerland,Arrowhead Stadium,2,18,-0.611,0.223,1.29,475.0,-0.69,277,0
+101,SF,France,Spain,AT&T Stadium,-2,-1,-0.833,0.334,-0.45,300.0,0.42,184,0
+102,SF,England,Argentina,Mercedes-Benz Stadium,-1,-3,1.028,-0.556,0.36,552.5,-0.46,320,0
+103,3rd,France,England,Hard Rock Stadium,-2,1,-0.083,0.667,-0.69,160.0,-0.04,3,0
+104,Final,Spain,Argentina,MetLife Stadium,1,-1,1.778,-0.223,0.14,412.5,-0.92,2,0
