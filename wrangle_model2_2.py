@@ -5,7 +5,7 @@ import pandas as pd
 
 FOLDER = Path(__file__).parent
 RAW = FOLDER / "raw"
-OUTPUT = FOLDER / "wc2026_team_goals_model2_2.csv"
+OUTPUT = FOLDER / "Data_set_2.2.csv"
 
 HOSTS = ["USA", "Canada", "Mexico"]
 
