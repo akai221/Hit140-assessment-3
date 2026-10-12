@@ -9,7 +9,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn import metrics
 
 # load data
-df = pd.read_csv("LR_2_1_dataset_clean.csv")
+df = pd.read_csv("LR_2.1_dataset_clean.csv")
 print(df.shape)
 print(df.isnull().sum().sum(), "missing values")
 
